@@ -2,6 +2,7 @@
 *.mat
 Data/jagsout/*.mat
 Data/figs/*.mat
+Data/figs/*.png
 Stimuli/*.jpg
 Stimuli/*.jpeg
 Stimuli/example_images/*.png
@@ -12,7 +13,6 @@ Stimuli/example_images/*.png
 
 # Figures
 
-*.png
 *.jpg
 *.tiff
 
