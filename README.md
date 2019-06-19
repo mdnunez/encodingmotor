@@ -1,7 +1,7 @@
 <img src="./extra/small_hnl_logo.png" height="128"> <img src="./extra/small_cidlab_logo.png" height="128">
 
 # encodingmotor 
-#### (Repository version 0.1.0)
+#### (Repository version 0.1.1)
 EEG measures of neural processing reflect human visaual encoding and motor preparation time (encodingmotor).
 
 **Authors: Michael D. Nunez, Kitty K. Lui, Kiana A. Scambray, Joachim Vandekerckhove, and Ramesh Srinivasan from the Cognitive Sciences Department at the University of California, Irvine**
@@ -51,8 +51,9 @@ encodingmotor is licensed under the GNU General Public License v3.0 and written 
 
 ### Further Reading
 
-Nunez, M. D., Gosai, A., Vandekerckhove, J., & Srinivasan, R. (2018).
-[The latency of a visual evoked potential tracks the onset of decision making.](https://www.biorxiv.org/content/early/2018/09/05/275727) bioRxiv. doi: 10.1101/275727
+Nunez, M. D., Gosai, A., Vandekerckhove, J., & Srinivasan, R. (2019).
+[The latency of a visual evoked potential tracks the onset of decision making.](https://www.researchgate.net/publication/332630466_The_latency_of_a_visual_evoked_potential_tracks_the_onset_of_decision_making) NeuroImage. doi: 10.1016/j.neuroimage.2019.04.052
+
 
 Lui, K. K., Nunez, M. D., Cassidy, J. M., Vandekerckhove, J., Cramer, S. C., & Srinivasan, R. (2018).
 [Timing of readiness potentials reflect a decision-making process in the human brain.](https://www.biorxiv.org/content/early/2018/06/04/338806) bioRxiv. doi: 10.1101/338806
